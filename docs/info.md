@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+bcd to 7 segments
 
 ## How to test
 
-Explain how to use your project
+Enter a binary number to display its corresponding value on a seven-segment display.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+bcd to 7 segments display
